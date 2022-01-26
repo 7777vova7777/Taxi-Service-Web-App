@@ -1,7 +1,4 @@
-<<<<<<< HEAD
 .idea/*
-=======
 .idea/
->>>>>>> aac0b3c (Taxi Service Web Application)
 *.iml
 target/*
